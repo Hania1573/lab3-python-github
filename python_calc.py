@@ -1,5 +1,6 @@
 # Python calculator:
 while True:
+    print("\nWelcome to the Python Calculator!")
     print("\n--- Available Operations ---")
     print("1. Addition (+)")
     print("2. Subtraction (-)")
